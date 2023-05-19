@@ -1,4 +1,4 @@
-# fls-blfs-11.3
+# lfs-blfs-11.3
 
 Download all the files and decompress
 Then you will get a .tar file
