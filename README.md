@@ -1,6 +1,6 @@
 # fls-blfs-11.
 
-Download all the files adn decompress
+Download all the files and decompress
 Then you will get a .tar file
 
 
